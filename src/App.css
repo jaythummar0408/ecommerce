@@ -1,0 +1,11 @@
+@import url('@fontsource/inter/700.css');
+@import url('@fontsource/inter/500.css');
+@import url('@fontsource/inter/400.css');
+@import url('@fontsource/inter/300.css');
+
+
+.title {
+    border-left: 4px solid red;
+    padding-left: 0.5rem;
+    font-size: 1.2rem;
+}
